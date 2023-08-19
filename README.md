@@ -3,7 +3,7 @@
 <hr />
 
 ### About Me 🚀
-Currently Learning Blockchain Development
+Currently a Blockchain Intern at Web3 Bridge
  
 
 
