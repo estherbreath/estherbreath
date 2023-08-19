@@ -3,7 +3,7 @@
 <hr />
 
 ### About Me 🚀
-Currently a Blockchain Intern at Web3 Bridge
+Currently a Solidity Developer Intern at Web3Bridge
  
 
 
