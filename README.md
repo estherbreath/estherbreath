@@ -3,7 +3,7 @@
 <hr />
 
 ### About Me 🚀
-Currently a Solidity Developer Intern at Web3Bridge
+Currently a Solidity Developer and Smart Contract Auditor at Web3Bridge
  
 
 
