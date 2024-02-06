@@ -3,7 +3,7 @@
 <hr />
 
 ### About Me 🚀
-Currently a Solidity Developer and Smart Contract Auditor
+Currently a Solidity and Cairo Developer, Smart Contract Auditor, Technical writer
  
 
 
